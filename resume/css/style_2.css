@@ -1,0 +1,39 @@
+#left{
+    background: #39f;
+    float: left;
+    width: 20%;
+    height: 780px;
+}
+#right{
+    float: left;
+    width: auto;
+    height: 780px;
+    margin: 10px 30px;
+    padding: 0;
+}
+#main{
+    color: white;
+    text-align: center;
+    margin: 50px;
+    padding: 0;
+    
+}
+h3{
+   margin: 0;
+   padding: 0;
+  
+}
+.line{
+    display: inline-block;
+    font-size: 18px;
+    font-weight:normal;
+   
+}
+.newline{
+    display: block;
+    font-size: 18px;
+    font-weight: normal;
+    margin: 0px 0px 10px 0px;
+   
+
+}
